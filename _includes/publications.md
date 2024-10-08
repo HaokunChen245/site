@@ -74,7 +74,7 @@
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">
-      <a href="https://arxiv.org/pdf/2308.08634.pdf">
+      <a href="https://arxiv.org/pdf/2410.04810.pdf">
 	FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models
       </a></div>
     <div class="author">
@@ -88,10 +88,10 @@
 		<a href="https://www.dbs.ifi.lmu.de/~krompass/">Denis Krompass</a>, 
 		<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
     </div>
-    <div class="periodical"><em>arXiv (arXiv), Sep. 2024.</em></div>
+    <div class="periodical"><em>arXiv (arXiv), Oct. 2024.</em></div>
     <div class="links">
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <a href="https://arxiv.org/pdf/2308.08634.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2410.04810.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
   </div>

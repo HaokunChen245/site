@@ -11,7 +11,7 @@ I am a third-year PhD student advised by <a href="https://www.dbs.ifi.lmu.de/~tr
 
 
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %} <br>
 {% include_relative _includes/services.md %}
 
 

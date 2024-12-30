@@ -8,19 +8,12 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 50px;">
     <h4 style="margin:0 10px 0;"><autocolor>Conference Reviewers</autocolor></h4>
       <ul style="margin:0 0 20px;">
-        European Conference on Computer Vision (<em>ECCV</em>) 2024<br>
-        Annual Conference on Neural Information Processing Systems (<em>NeurIPS</em>) 2024<br>
-        The Annual AAAI Conference on Artificial Intelligence (<em>AAAI</em>) 2024-2025<br>
-        International Conference on Learning Representations (<em>ICLR</em>) 2025<br>
-        Artificial Intelligence and Statistics Conference (<em>AISTATS</em>) 2025<br>
-        The IEEE/CVF Computer Vision and Pattern Recognition Conference (<em>CVPR</em>) 2025<br>
-        International Conference on Machine Learning (<em>ICML</em>) 2025<br>
-        International Joint Conference on Neural Networks (<em>IJCNN</em>) 2025<br>
+        <em>Computer Vision</em> ECCV 2024, CVPR 2025
+        <em>Machine Learning</em> NeurIPS 2024, ICLR 2025, ICML 2025, IJCNN 2025, AISTATS 2025, AAAI 2024-2025
       </ul> 
   </div>
 </div>
-
-
+  
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 50px;">

@@ -183,7 +183,7 @@
 	<a href="https://jindonggu.github.io/">Jindong Gu</a>,
 	<a href="https://www.dbs.ifi.lmu.de/~tresp/">Volker Tresp</a>
     </div>
-    <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Feb. 2025</em></div>
+    <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong> Feb. 2025</em></div>
     <div class="links">
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="https://arxiv.org/pdf/2308.08634.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

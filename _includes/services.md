@@ -13,6 +13,9 @@
         The Annual AAAI Conference on Artificial Intelligence (<em>AAAI</em>) 2024-2025<br>
         International Conference on Learning Representations (<em>ICLR</em>) 2025<br>
         Artificial Intelligence and Statistics Conference (<em>AISTATS</em>) 2025<br>
+        The IEEE/CVF Computer Vision and Pattern Recognition Conference (<em>CVPR</em>) 2025<br>
+        International Conference on Machine Learning (<em>ICML</em>) 2025<br>
+        International Joint Conference on Neural Networks (<em>IJCNN</em>) 2025<br>
       </ul> 
   </div>
 </div>

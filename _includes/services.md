@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px 50px;">Services</h2>
+<h2 id="publications" style="margin: 2px 0px 10px;">Services</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;padding-bottom: 50px;">
     <h4 style="margin:0 10px 0;"><autocolor>Conference Reviewers</autocolor></h4>
-      <ul style="margin:0 0 50px;">
+      <ul style="margin:0 0 20px;">
         European Conference on Computer Vision (<em>ECCV</em>) 2024<br>
         Annual Conference on Neural Information Processing Systems (<em>NeurIPS</em>) 2024<br>
         The Annual AAAI Conference on Artificial Intelligence (<em>AAAI</em>) 2024-2025<br>
